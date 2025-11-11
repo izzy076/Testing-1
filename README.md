@@ -63,3 +63,14 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 - **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/isabella-ni%C3%B1o-desarrollador-web-full-stack/)
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+## Taller
+
+1. Creación del repositorio
+2. Ejecutar el servidor
+<img href="./imgs/image.png">
+3. Prueba ejemplo: Pasan todos los casos de prueba
+<img href="./imgs/image2.png">
+4. Prueba ejemplo: Pasa algun eror en algunos de los casos de prueba
+<img href="./imgs/image3.png">
+

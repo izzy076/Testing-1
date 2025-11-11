@@ -19,10 +19,4 @@ app.use(express.json());
 app.use('/usuarios', usersRouter);
 app.use('/iniciarSesion', loginRouter);
 
-
-
-// 3. ejecutar el servidor en nuestro computador
-app.listen(port, ()=>{
-    console.log('El servidor está ejecutándose correctamente, en el puerto ', port);
-});
-
+export default app;
